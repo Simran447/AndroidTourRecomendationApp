@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482182042337",
+    "project_id": "travelapp-3ff5a",
+    "storage_bucket": "travelapp-3ff5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482182042337:android:e511ec59911f8f9ea01da0",
+        "android_client_info": {
+          "package_name": "com.corizoproject.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9uRyMmOVo5ecX6Kqhe-P0Lv5Pdw4SDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
